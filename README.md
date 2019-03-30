@@ -38,9 +38,11 @@
 
 ### Regression analysis
 
-|![regr_BMI](https://user-images.githubusercontent.com/42139196/55275748-f8084200-52c0-11e9-8db7-f36d8f04a76f.png)|
-![regr_S5](https://user-images.githubusercontent.com/42139196/55275752-140be380-52c1-11e9-8ea4-df40cb91de31.png)|
-   ![regression_analysis_table](https://user-images.githubusercontent.com/42139196/55275820-41a55c80-52c2-11e9-97f6-e4f2ec7c58fc.png)
+|![regr_BMI](https://user-images.githubusercontent.com/42139196/55275748-f8084200-52c0-11e9-8db7-f36d8f04a76f.png)   | 
+|                                                                                                                    |
+|![regr_S5](https://user-images.githubusercontent.com/42139196/55275752-140be380-52c1-11e9-8ea4-df40cb91de31.png)    | 
+|--------------------------------------------------------------------------------------------------------------------|
+|   ![regression_analysis_table](https://user-images.githubusercontent.com/42139196/55275820-41a55c80-52c2-11e9-97f6-e4f2ec7c58fc.png)
 
    The MSE and R2 score are the key criterias in this analysis, in this particular study both the BMI (Body Mass Index) and S5 have the lowest MSE (mean square error) and both have the highest R2 scores. Even though the higher values of R2, we favored the findings on the low MSE figures in selecting the preferred prediction model, in this case, BMI and S5, further minimized the errors by computing the RMSE values. S5 as one of 6 blood serums not very clearly explained in the case summary and therefore difficult to make conjecture about that feature, however we know from common sense that obesity often contributes to a more likely outcome of a diabetic prognosis. Regardless, the R2 score at 47% and 39% for BMI and S5 respectively are still not sufficient for us to draw any substantial conclusions from this model.   
 
