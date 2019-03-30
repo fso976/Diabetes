@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Frank So <https://github.com/fso976/final_project>
+MAINTAINER Frank So <https://github.com/fso976/Diabetes>
 
 RUN apt-get update
 RUN apt-get install -y python3-pip
