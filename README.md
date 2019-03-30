@@ -43,3 +43,15 @@ Cross Validation
 ![cv_plotly](https://user-images.githubusercontent.com/42139196/55275727-90ea8d80-52c0-11e9-894b-e7222f9f4f9e.png)
 
 ![3_fold_alpha_scores](https://user-images.githubusercontent.com/42139196/55275838-86c98e80-52c2-11e9-87bc-ac6667cde654.png)
+
+The above figure/table was generated using the Lasso cross-validation object to arrive at the alpha parameters by internal cross-validation, combined with the result deriving from the same procedure from an external set of generated alphas to see how they compare in a 3-fold comparison. Despite the identical alpha results for fold {0} and fold {2}, the score differences are significantly enough to reject the null hypothesis.    
+
+
+Discussion:
+
+In this study, we have examined the subject with a few different classifiers, using arbitrary train/test split to evaluate model performance. Then, we used cross-validation (LassoCV algorithm) estimators to automate the the computation of our train/test split, though the accuracy of the model was not significantly improved. 
+As discussed in the results above, the BMI and Y correlation is inconclusive. We should, however, take into consideration the fact that the expected value was measured over a year period, there is a lack of comparative data on BMI over the year to allow for a reasonable comparison. There is no way to know the subject has gained or lost weight over the year. We believe that is partially the reason why it has such a high R2 score while having a relatively low MSE value.  
+Moreover, it is not to be overlooked the fact that the diabetes sample size is a relatively small, only a total of 420 patients subjects. As a result, the option of the more ‘expensive’ algorithms were foregone due to the low expectation of an improved performance. 
+
+
+
