@@ -39,8 +39,7 @@
 ### Regression analysis
 
 |![regr_BMI](https://user-images.githubusercontent.com/42139196/55275748-f8084200-52c0-11e9-8db7-f36d8f04a76f.png)   | 
-                                                                                                                    
-![regr_S5](https://user-images.githubusercontent.com/42139196/55275752-140be380-52c1-11e9-8ea4-df40cb91de31.png) |    
+    ![regr_S5](https://user-images.githubusercontent.com/42139196/55275752-140be380-52c1-11e9-8ea4-df40cb91de31.png) |    
 --------------------------------------------------------------------------------------------------------------------
    ![regression_analysis_table](https://user-images.githubusercontent.com/42139196/55275820-41a55c80-52c2-11e9-97f6-e4f2ec7c58fc.png)
 
