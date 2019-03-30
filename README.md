@@ -30,8 +30,9 @@ Results:
 
 
 Regression analysis
-![regr_BMI](https://user-images.githubusercontent.com/42139196/55275748-f8084200-52c0-11e9-8db7-f36d8f04a76f.png)
-![regr_S5](https://user-images.githubusercontent.com/42139196/55275752-140be380-52c1-11e9-8ea4-df40cb91de31.png)
+
+|![regr_BMI](https://user-images.githubusercontent.com/42139196/55275748-f8084200-52c0-11e9-8db7-f36d8f04a76f.png)|
+![regr_S5](https://user-images.githubusercontent.com/42139196/55275752-140be380-52c1-11e9-8ea4-df40cb91de31.png)|
 
 
 ![cv_plotly](https://user-images.githubusercontent.com/42139196/55275727-90ea8d80-52c0-11e9-894b-e7222f9f4f9e.png)
