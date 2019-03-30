@@ -30,7 +30,7 @@ Results:
 
 
 Regression analysis
-
+![regr_BMI](https://user-images.githubusercontent.com/42139196/55275748-f8084200-52c0-11e9-8db7-f36d8f04a76f.png)
 
 
 
